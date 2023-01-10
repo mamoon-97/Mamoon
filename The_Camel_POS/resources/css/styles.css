@@ -1,0 +1,231 @@
+body {
+    
+    
+    height: 100%; 
+    background-image: url("../../resources/img/img_6.jpg");
+    background-color: #f8f8f813;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    font-size: large; 
+        
+       
+       
+    
+} 
+#login{
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+#flogin{ 
+     
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+
+
+    
+ 
+    height: 70%;
+ width: 50%; 
+ padding: auto; 
+ margin: auto;
+    
+   
+    
+    color:whitesmoke;
+    
+    backdrop-filter: blur(16px) saturate(180%);
+    
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    
+    background-color: rgba(45, 185, 115, 0.582);
+    
+    border-radius: 12px;
+    
+    border: 2px solid rgba(255, 255, 255, 0.125);
+    
+  
+}
+
+
+footer {
+    background-color: #222;
+    height: 3.5rem;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100vw;
+    }
+    
+    footer * {
+    color: #f8f8f8;
+    }
+    
+    .admin-view #admin-area {
+    min-height: 100vh;
+    }
+    
+    .admin-view .admin-links {
+    background-color: #212529;
+    }
+    
+    .admin-view .admin-links * {
+    background-color: #21252917;
+    }
+    
+    .admin-view .admin-links li {
+    color: #fff;
+    border-color: #fff;
+    }
+    
+    .admin-view .admin-links .list-group-item {
+    border-bottom: 1px solid #fff;
+    }
+    
+    
+    .admin-view .admin-links li a {
+    display: block;
+    color: #fff;
+    border-color: #fff;
+    text-decoration: #fff;
+    transition: opacity .5s;
+    }
+    
+    .admin-view .admin-links li a:hover {
+    opacity: .7;
+    }
+    h1{
+    text-align: center;
+    }
+    #f-c{ 
+     
+    
+    width:35%;
+    
+    margin: auto;
+    
+    color:whitesmoke;
+    
+    backdrop-filter: blur(16px) saturate(180%);
+    
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    
+    background-color: rgba(45, 185, 115, 0.582);
+    
+    border-radius: 12px;
+    
+    border: 2px solid rgba(255, 255, 255, 0.125);
+    
+    padding: 20px 25px;
+    
+    
+    
+    }
+    
+    
+    
+    input[type=text], input[type=password]{
+    
+    width: 95%;
+    
+    margin: 10px 0;
+    
+    border-radius: 5px;
+    
+    padding: 15px 18px;
+    
+    box-sizing: border-box; 
+    
+    }
+    
+    
+    
+    button {
+    
+    background-color: #03080452;
+    
+    color: white;
+    
+    padding: 14px 20px;
+    
+    border-radius: 5px;
+    
+    margin: 7px 0;
+    
+    width: 95%;
+    
+    font-size: 18px; 
+    
+    }
+    
+    
+    
+    button:hover {
+    
+    opacity: 0.6;
+    
+    cursor: pointer;
+    
+    }
+    
+    
+    
+    .headingsContainer{
+    
+    text-align: center;
+    
+    }
+    
+    .headingsContainer p{
+    
+    color: gray;
+    
+    }
+    
+    .mainContainer{
+    
+    padding: 16px;
+    
+    }
+    
+    .subcontainer{
+    
+    display: flex;
+    
+    flex-direction: row;
+    
+    align-items: center;
+    
+    justify-content: space-between;
+    
+    } 
+    .table{
+    background-color: rgba(239, 243, 243, 0.658);
+    width: 80%;
+    } 
+    #ft{
+    color: #07010196;
+    } 
+
+    #card{
+
+        
+    color:whitesmoke;
+    
+    backdrop-filter: blur(16px) saturate(180%);
+    
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    
+    background-color: rgba(45, 185, 115, 0.582);
+    
+    border-radius: 12px;
+    
+    border: 2px solid rgba(255, 255, 255, 0.125);
+    
+    }
+
+   
